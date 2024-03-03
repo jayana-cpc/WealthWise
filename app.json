@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "WealthWise",
-    "slug": "WealthWise",
+    "slug": "wealth-wise",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "818c5712-5f0e-4615-afd4-ed453e3e1118"
+      }
+    },
+    "owner": "jayana_dev"
   }
 }
