@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1038265631668-f3neisug1pds633m8qkelq5menpvml88.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1038265631668-f3neisug1pds633m8qkelq5menpvml88</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBy6xe68w2xZGW8_5fLWJsv0bYSCwZuZQ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1038265631668</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wealthwise.wealthwise-native</string>
+	<key>PROJECT_ID</key>
+	<string>wealthwise-46f60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wealthwise-46f60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1038265631668:ios:43bb6ca2249f2e47c0e8e1</string>
+	<key>DATABASE_URL</key>
+	<string>https://wealthwise-46f60-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
